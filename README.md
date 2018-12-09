@@ -1,7 +1,7 @@
 
-#**Liri the CLI Data Provider**
+#**Liri the CLI Data Provider**#
 
-###**Four basic commands Liri takes are:**
+###**Four basic commands Liri takes are:**###
 
 **1. Spotify-this-Song**
 ![Image of SpotifyThisSong](screenshots/spotify.JPG)
